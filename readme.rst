@@ -24,10 +24,6 @@ Install from the cheeese shop with ``pip`` or ``easy_install``:
 
     $ pip install exofrills
 
-.. code-block:: bash
-
-    $ easy_install exofrills
-
 Fork xo from `github <https://github.com/scopatz/xo>`_:
 
 .. code-block:: bash
